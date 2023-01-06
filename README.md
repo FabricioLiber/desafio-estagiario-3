@@ -8,19 +8,23 @@ A vaga é para Estagiário Desenvolvedor.
 
 ### Desafio Técnico
 
-  - Resumo do problema: Hoje na empresa estamos com muitos funcionários e também muitos clientes nos quais prestam serviços, e todo esse controle de cadastro desse pessoal está sendo através de papel físico. Com isso precisamos de uma sistema para manter o cadastro de todas essas pessoas (Funcionarios e clientes).
+Veiculo
+    Caminhao
+    Passeio
+
+  - Resumo do problema: Hoje na empresa estamos com muitos veículos de diferentes portes, e todo esse controle de cadastro está sendo através de papel físico. Com isso precisamos de uma sistema para manter o cadastro de todos esses veículos.
   
   
   - Dicionário:
     ```
-    * Pessoa Funcionário: Funcionário da RPE que pode ser desenvolvedor, qa, gerente, RH, etc.
-      Atributos: CPF, Nome, Endereco, Telefone, Função, Status, Data de Contratação
+    * Veículo de Passeio: Veículo utilizado para alguns funcionários visitarem seus clientes.
+      Atributos: Placa, Nome, Marca, Número de Passageiros
         
-    * Pessoa Cliente: Cliente que presta serviço para RPE, exmplo eletricista, faxineiro, etc.
-      Atributos: CPF, Nome, Endereco, Telefone, Data do último serviço
+    * Caminhão: Veículo utilizado para fazer entregas de mercadorias.
+      Atributos: Placa, Nome, Marca, Capacidade, Quantidade de Carroceria
     ```
 
-  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros.    
+  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros de veículos.
   
     
   - Pré-requisitos:
