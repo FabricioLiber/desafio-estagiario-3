@@ -8,10 +8,6 @@ A vaga é para Estagiário Desenvolvedor.
 
 ### Desafio Técnico
 
-Veiculo
-    Caminhao
-    Passeio
-
   - Resumo do problema: Hoje na empresa estamos com muitos veículos de diferentes portes, e todo esse controle de cadastro está sendo através de papel físico. Com isso precisamos de uma sistema para manter o cadastro de todos esses veículos.
   
   
