@@ -16,11 +16,11 @@ A vaga é para Estagiário Desenvolvedor.
     * Veículo de Passeio: Veículo utilizado para alguns funcionários visitarem seus clientes.
       Atributos: Placa, Nome, Marca, Número de Passageiros
         
-    * Caminhão: Veículo utilizado para fazer entregas de mercadorias.
+    * Veículo de Carga: Veículo utilizado para fazer entregas de mercadorias.
       Atributos: Placa, Nome, Marca, Capacidade, Quantidade de Carroceria
     ```
 
-  Objetivo do Desafio: Desenvolver uma api que tenha uma função de crud para manter os cadastros de veículos.
+  Objetivo do Desafio: Desenvolver uma api que tenha uma função de CRUD para manter os cadastros de veículos.
   
     
   - Pré-requisitos:
@@ -34,14 +34,14 @@ A vaga é para Estagiário Desenvolvedor.
 
   - O que esperamos como escopo:
     ```
-    * Endpoint para adicionar um Funcionário
-    * Endpoint para adicionar um Cliente
-    * Endpoint para consultar um Funcionário
-    * Endpoint para consultar um Cliente
-    * Endpoint para alterar um Funcionário
-    * Endpoint para alterar um Cliente
-    * Endpoint para remover um Funcionário
-    * Endpoint para remover um Cliente
+    * Endpoint para adicionar um Veículo de Passeio
+    * Endpoint para adicionar um Veículo de Carga
+    * Endpoint para consultar um Veículo de Passeio
+    * Endpoint para consultar um Veículo de Carga
+    * Endpoint para alterar um Veículo de Passeio
+    * Endpoint para alterar um Veículo de Carga
+    * Endpoint para remover um Veículo de Passeio
+    * Endpoint para remover um Veículo de Carga
 
     ```
 
@@ -50,22 +50,21 @@ A vaga é para Estagiário Desenvolvedor.
     * Front
     ```
 
-  - Extra/Bônus (não Obrigatório)
+  - Extra/Bônus (Não Obrigatório)
     ```
     * Implementar testes unitários
     ```
   
   - O que vamos avaliar:
     ```
-    * Seu código; 
-    * Organização;
+    * Organização de código;
     * Boas práticas;
     ```
 
 ### Instruções
         1. Crie um projeto no gitlab ou github;
         2. Desenvolva. Você terá 5 (cinco) dias a partir da data do envio do desafio; 
-        3. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o 
+        3. Crie um arquivo de texto com a nomenclatura README.md com a explicação de como devemos executar o 
         projeto e com uma descrição do que foi feito; 
         4. Envie o link do projeto responsendo ao email enviado.
 
